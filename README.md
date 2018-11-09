@@ -48,6 +48,8 @@ FW = 80 hours
 S = 1300 TCs x 3 hours = 3900  
 ER = 8 hours x 52 weeks x 5 years = 2080
 
+![](http://barnraisersllc.com/wp-content/uploads/2012/11/show-me-ROI.jpeg)
+
 Considering this  
 ROI = (10080-(80+3900+2080)/(80+3900+2080))x100%=66%
 
