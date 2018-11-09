@@ -10,6 +10,7 @@
 1. _Is it necessary to set up test automation processes for your SUT? Why?_
 
   Given the current SUT, it is very necessary to have an automation processes in place, according to following reasons:
+
     * frequent manual execution
       * several times a week for a smoke testing of the environment
       * twice a week doing a full regression on integrated team deployments
