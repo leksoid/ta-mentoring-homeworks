@@ -61,3 +61,5 @@ We will have a positive 66% ROI when we cover 100% of our regression testing and
 
 If we want to cover only high priority TCs (typically is about 50% of all TCs = 650),  
 ROI = (4320-(80+1950+1040)/(80+1950+1040))x100%=41%
+
+&copy; Aliaksei Taran, 2018
