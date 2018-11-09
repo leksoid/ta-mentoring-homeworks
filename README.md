@@ -30,8 +30,9 @@ Having the automation of majority of TCs in place, would save the time of manual
 ##### Calculate ROI (return on investment) value for your SUT. Provide rationale for your calculations with assumptions and description for each step.
 
 
-To calculate ROI for an automation testing implementation we have a formula
-**ROI = (Cm – (FW+S+ER)) / (FW+S+ER)**, where
+To calculate ROI for an automation testing implementation we have a formula  
+**ROI = (Cm – (FW+S+ER)) / (FW+S+ER)**,  
+where
 - Cm – manual testing cost (we will take total amount of hours to perform smoke and regression testing of TCs)
 - FW – framework implementation cost
 - S - test automation scenarios implementation cost (we will take an average of 3 hours for a 1 TC of medium complex flow when we have a framework created)
@@ -44,9 +45,12 @@ Cm = (Total hours spent on regression TR)+(Total hours spent on smoke testing TS
 * where TR = (2 x 8 x 3 x 2)x12x5 (2 qa's spending 8 hours 2/month for 5 years)
 * where TS = (2 x 3 x 3 x 4)x12x5 (2 qa's spending 3 hours 3/week for 5 years)
 
-FW = 80 hours  
-S = 1300 TCs x 3 hours = 3900  
-ER = 8 hours x 52 weeks x 5 years = 2080
+| Variable      | Hours |
+| --------- | -----:|
+| Cm | 10080 |
+| FW  | 80 |
+| S     |   1300 TCs x 3 hours = 3900 |
+| ER      |    8 hours x 52 weeks x 5 years = 2080 |
 
 ![](http://barnraisersllc.com/wp-content/uploads/2012/11/show-me-ROI.jpeg)
 
