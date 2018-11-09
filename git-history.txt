@@ -1,0 +1,39 @@
+$ git reflog
+cb7eeac (HEAD -> master, origin/master, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+d905f2b HEAD@{1}: checkout: moving from develop to master
+cb7eeac (HEAD -> master, origin/master, origin/HEAD, develop) HEAD@{2}: merge master: Merge made by the 'recursive' strategy.
+80e5cf5 (origin/develop) HEAD@{3}: revert: Revert "Added some yadda yadda"
+c57ddb9 HEAD@{4}: checkout: moving from master to develop
+d905f2b HEAD@{5}: checkout: moving from develop to master
+c57ddb9 HEAD@{6}: checkout: moving from master to develop
+d905f2b HEAD@{7}: cherry-pick: Added italic style to a formula text
+116e35f HEAD@{8}: checkout: moving from develop to master
+c57ddb9 HEAD@{9}: commit: Added some yadda yadda
+053f395 HEAD@{10}: commit: Added italic style to a formula text
+116e35f HEAD@{11}: checkout: moving from master to develop
+116e35f HEAD@{12}: merge develop: Fast-forward
+e54ba8b HEAD@{13}: checkout: moving from develop to master
+116e35f HEAD@{14}: rebase finished: returning to refs/heads/develop
+116e35f HEAD@{15}: rebase: Added copyright info
+f6da0c5 HEAD@{16}: rebase: Changed to display values in table
+e54ba8b HEAD@{17}: rebase: checkout master
+25748d7 HEAD@{18}: checkout: moving from master to develop
+e54ba8b HEAD@{19}: checkout: moving from develop to master
+25748d7 HEAD@{20}: checkout: moving from master to develop
+e54ba8b HEAD@{21}: checkout: moving from develop to master
+25748d7 HEAD@{22}: commit: Added copyright info
+2ebfbae HEAD@{23}: commit: Changed to display values in table
+8e31aea HEAD@{24}: checkout: moving from master to develop
+e54ba8b HEAD@{25}: commit: Fixed header
+8e31aea HEAD@{26}: checkout: moving from develop to master
+8e31aea HEAD@{27}: merge master: Fast-forward
+795c8ec HEAD@{28}: checkout: moving from master to develop
+8e31aea HEAD@{29}: pull origin: Fast-forward
+dba89c6 HEAD@{30}: checkout: moving from develop to master
+795c8ec HEAD@{31}: commit: Show me the ROI
+4042001 HEAD@{32}: commit: Added a part about calculatin ROI
+dba89c6 HEAD@{33}: checkout: moving from master to develop
+dba89c6 HEAD@{34}: commit: Tried to fix formatting
+3295223 HEAD@{35}: commit: Added answers for a 1st part of Lesson 1 HW
+2095791 HEAD@{36}: commit: Initial commit, empty README
+a1fdb3c HEAD@{37}: clone: from git@github.com:leksoid/ta-mentoring-homeworks.git
