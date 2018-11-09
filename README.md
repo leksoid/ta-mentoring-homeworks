@@ -1,4 +1,4 @@
-# Lesson 2 HW 
+# Lesson 2 HW
 
 #### Answer the following questions
 
@@ -31,7 +31,7 @@ Having the automation of majority of TCs in place, would save the time of manual
 
 
 To calculate ROI for an automation testing implementation we have a formula  
-**ROI = (Cm – (FW+S+ER)) / (FW+S+ER)**,  
+_**ROI = (Cm – (FW+S+ER)) / (FW+S+ER)**_,  
 where
 - Cm – manual testing cost (we will take total amount of hours to perform smoke and regression testing of TCs)
 - FW – framework implementation cost
