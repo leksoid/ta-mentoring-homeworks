@@ -1,5 +1,5 @@
-# Lesson 1 HW #
----
+# Lesson 2 HW 
+
 #### Answer the following questions
 
   1. Is it necessary to set up test automation processes for your SUT? Why?
