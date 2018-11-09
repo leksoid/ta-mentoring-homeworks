@@ -63,3 +63,7 @@ If we want to cover only high priority TCs (typically is about 50% of all TCs = 
 ROI = (4320-(80+1950+1040)/(80+1950+1040))x100%=41%
 
 &copy; Aliaksei Taran, 2018
+
+>The quick, brown fox jumps over a lazy dog.  
+>DJs flock by when MTV ax quiz prog.   
+>Junk MTV quiz graced by fox whelps.
