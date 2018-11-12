@@ -1,4 +1,4 @@
-# Lesson 2 HW
+# Lesson 2 Hausaufgabe
 
 #### Answer the following questions
 
